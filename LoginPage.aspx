@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            帳號:<asp:TextBox ID="txtAccount" runat="server"></asp:TextBox>
+            aa帳號:<asp:TextBox ID="txtAccount" runat="server"></asp:TextBox>
         </div>
         <div>
             密碼:<asp:TextBox ID="txtPwd" runat="server"></asp:TextBox>
